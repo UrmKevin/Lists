@@ -97,6 +97,16 @@
 #print(nl.sort(reverse=True))
 
 # number 5
-l = ['крот', 'белка', 'выхухоль']
-l.ljust(width, fillchar="_")
-print(l)
+#l = ['крот', 'белка', 'выхухоль']
+#nl=[]
+#max=0
+#for i in range(len(l)):
+#	x=len(l[i])
+#	if x>max:
+#		max=x
+
+#for i in range(len(l)):
+#	tl=l[i]
+#	nl.append(tl.ljust(max,'_'))
+
+#print(nl)
